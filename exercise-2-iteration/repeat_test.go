@@ -1,4 +1,4 @@
-package iteration
+package exercise_2_iteration
 
 import "testing"
 
